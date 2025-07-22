@@ -1,3 +1,2 @@
-printf("yo");
-
-
+printf('yo');
+no  
